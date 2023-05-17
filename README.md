@@ -13,6 +13,8 @@ This wonderful template is from https://github.com/VainF/Awesome-Anything by [Go
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
 |[**Model Fusion via Optimal Transport**](https://arxiv.org/abs/1910.05653) <br> *Sidak Pal Singh, Martin Jaggi* <br> > ETH Zurich, EPFL <br> > NeurIPS'20 <br><br> | ![intro](https://github.com/sidak/otfusion/blob/master/fusion_camera_ready.png?raw=true) | [[Github](https://github.com/sidak/otfusion)] <br> [[PDF](https://arxiv.org/pdf/1910.05653.pdf)] |
+|[**Model Soups: Averaging weights of multiple fine-tuned models improves accuracy without increasing inference time**](https://arxiv.org/abs/2203.05482) <br> *Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt* <br> > University of Washington, Columbia University, Google Research, Meta AI Research, Tel Aviv University <br> > ICML'22 <br><br> | ![intro](https://github.com/mlfoundations/model-soups/blob/main/figure.png?raw=true) | [[Github](https://github.com/mlfoundations/model-soups)] <br> [[PDF](https://arxiv.org/pdf/2203.05482.pdf)] |
+
 
 
 
